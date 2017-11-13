@@ -1,5 +1,5 @@
-$teal: #008080;
-$navbar-default-bg: $teal;
+$main-color: #6ed369;
+$navbar-default-bg: $main-color;
 
 
 @import "bootstrap-sprockets";
@@ -38,7 +38,7 @@ $navbar-default-bg: $teal;
 }
 
 .btn-xlarge {
-  background-color: $teal;
+  background-color: $main-color;
 }
 
 .btn-xlarge:hover {
@@ -47,5 +47,5 @@ $navbar-default-bg: $teal;
 }
 
 .footer {
-  background-color: $teal;
+  margin-top: 30px;
 }
