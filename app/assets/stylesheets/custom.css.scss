@@ -1,4 +1,4 @@
-$main-color: #6ed369;
+$main-color: #073B15; //#6ed369;
 $navbar-default-bg: $main-color;
 
 
@@ -56,4 +56,16 @@ $navbar-default-bg: $main-color;
 
 .footer {
   margin-top: 30px;
+}
+
+.description {
+  margin-top: 0px;
+}
+
+.well a {
+  color: $main-color;
+}
+
+.chef_info {
+  margin-top: 10px;
 }
